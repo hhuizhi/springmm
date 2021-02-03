@@ -14,7 +14,7 @@
                  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 1、eclisps 下的maven项目           
               </p>
                <p style="text-indent:60px;">
-                 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 2、java创WEB项目，建议JDK7
+                 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 2、java的WEB项目，建议JDK7
               </p>
               <p style="text-indent:60px;">
                   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp3、mysql数据库
